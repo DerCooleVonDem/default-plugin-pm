@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-#%{Namespace}
+#namespace
 
 use pocketmine\plugin\PluginBase;
 
-class MainFile extends PluginBase{
+class #fileName extends PluginBase{
 
 }
